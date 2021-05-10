@@ -21,8 +21,8 @@
    <div>
         
    <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img  width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventrixx&layout=compact&theme=cobalt" />
-          <img width="495" src="https://github-readme-stats.vercel.app/api?username=Inventrixx&show_icons=true&theme=cobalt" />
+          <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventrixx&layout=compact&theme=cobalt" />
+          <img width="420" src="https://github-readme-stats.vercel.app/api?username=Inventrixx&show_icons=true&theme=cobalt" />
           
    </a>
 </div>
